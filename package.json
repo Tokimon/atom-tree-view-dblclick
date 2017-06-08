@@ -1,0 +1,18 @@
+{
+  "name": "atom-tree-view-dblclick",
+  "main": "./lib/atom-tree-view-dblclick",
+  "version": "0.1.0",
+  "description": "Double click items in Atom tree view to open them",
+  "keywords": [
+    "tree-view",
+    "ui",
+    "click",
+    "doubleclick"
+  ],
+  "repository": "https://github.com/tokimon/atom-tree-view-dblclick",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
