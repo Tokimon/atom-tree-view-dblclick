@@ -1,7 +1,7 @@
 {
   "name": "atom-tree-view-dblclick",
   "main": "./lib/atom-tree-view-dblclick",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Double click items in Atom tree view to open them",
   "keywords": [
     "tree-view",
